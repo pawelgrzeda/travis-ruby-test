@@ -4,8 +4,7 @@ arch: arm64-graviton2
 
 language: ruby
 rvm:
- - 2.2
- - jruby
+ - 2.5
 
 script:
   - ruby hello.rb
